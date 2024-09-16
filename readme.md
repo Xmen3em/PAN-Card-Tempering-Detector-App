@@ -63,3 +63,7 @@ This project is licensed under the MIT License.
 - Flask documentation
 - OpenCV documentation
 - Any other resources or libraries used
+
+## Deployment
+
+You can view the live application [here](https://pan-card-tempering-detector-app.onrender.com/).
